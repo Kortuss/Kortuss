@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kortuss
-  little noob programmer
+  a little noob programmer, i hate python, c++ enjoyer
 
 <!---
 Kortuss/Kortuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
