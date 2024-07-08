@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Kortuss
-  a little noob programmer, i hate python, c++ enjoyer
+-   Web dev and backend. Mostly js, competitive programmer in C++.
+-   Learning TS.
 
 <!---
 Kortuss/Kortuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
